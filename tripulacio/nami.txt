@@ -1,0 +1,3 @@
+Nom: La Nami
+Rol: Navegant
+Vol dibuixar el mapa de tot el món.
